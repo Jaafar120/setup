@@ -2,7 +2,7 @@
      "name": "سورس ستوك ثون",
      "description": "𝐖𝐄𝐋𝐂𝐎𝐌𝐄 𝐓𝐎 𝐒𝐎𝐔𝐑𝐂𝐄 𝐒𝐓𝐎𝐂𝐊𝐓𝐇𝐎𝐍🜝",
      "addons": ["scalingo-postgresql"],
-     "keywords": ["stockthon", "userbot","scalingo"],
+     "keywords": ["Stockthon", "userbot","scalingo"],
      "repository": "https://github.com/Jaafar120/setup",
    "stack": "container",
      "env": {
