@@ -1,1 +1,1 @@
-worker: bash Rickthon
+worker: bash STOCKTHON

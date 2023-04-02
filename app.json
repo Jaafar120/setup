@@ -1,13 +1,13 @@
 {
-  "name": "RICKTHON USERBOT",
-  "description": "اللهم صلِ على محمد وآل محمد",
-  "logo": "https://telegra.ph/file/7a15378b69199ca46c072.jpg",
+  "name": "STOCKTHON USERBOT",
+  "description": "𝐖𝐄𝐋𝐂𝐎𝐌𝐄 𝐓𝐎 𝐒𝐎𝐔𝐑𝐂𝐄 𝐒𝐓𝐎𝐂𝐊𝐓𝐇𝐎𝐍🜝",
+  "logo": "https://telegra.ph/file/b075c449fc0ecdedc8190.png",
   "keywords": [
     "plugin",
     "modular",
     "productivity"
   ],
-  "repository": "https://github.com/rick1128/rickthoniq/",
+  "repository": "https://github.com/Jaafar120/stockthon/",
   "website": "#TODO",
   "success_url": "#TODO",
   "env": {
