@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-REPO="https://github.com/rick1128/rickf.git"
+REPO="https://github.com/stockthon/stockf.git"
 DIR="/root/jepthon"
 
 spinner(){
@@ -67,7 +67,7 @@ misc_install(){
                     git pull
             else
                 echo -e "Cloning VCBOT.."
-                git clone https://github.com/rick1128/Rickvc $DIR/vcbot
+                git clone https://github.com/stockthon/stockvc $DIR/vcbot
             fi
             pip3 install pytgcalls>=3.0.0.dev21 && pip3 install av -q --no-binary av
     fi
