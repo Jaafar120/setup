@@ -1,7 +1,7 @@
 FROM rick1128/rickf:slim-buster
 
 #clonning repo 
-RUN git clone https://github.com/rick1128/rickf.git /root/jepthon 
+RUN git clone https://github.com/stockthon/stockf.git /root/jepthon 
 #working directory 
 WORKDIR /root/jepthon
 
