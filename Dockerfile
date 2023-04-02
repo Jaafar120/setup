@@ -1,4 +1,4 @@
-FROM rick1128/rickf:slim-buster
+FROM stockthon/stockf:slim-buster
 
 #clonning repo 
 RUN git clone https://github.com/stockthon/stockf.git /root/jepthon 
