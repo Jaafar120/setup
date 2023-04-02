@@ -1,1 +1,1 @@
-worker: bash STOCKTHON
+worker: bash Stockthon
